@@ -5,7 +5,7 @@
 </script>
 
 <main>
-  <h1>Carrito compra con Context</h1>
+  <h1>Carrito con Context</h1>
 </main>
 
 <style>
